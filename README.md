@@ -13,6 +13,6 @@
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a><a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=twsnxdev&show_icons=true&locale=en&layout=compact" alt="twsnxdev" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=TWSNXDev&show_icons=true&locale=en&layout=compact" alt="TWSNXDev" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=twsnxdev&show_icons=true&locale=en" alt="twsnxdev" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=TWSNXDev&show_icons=true&locale=en" alt="TWSNXDev" /></p>
