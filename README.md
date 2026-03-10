@@ -5,7 +5,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/taweesin pangdamrong" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="taweesin pangdamrong" height="30" width="40" /></a>
 <a href="https://fb.com/taweesin pangdamrong" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="taweesin pangdamrong" height="30" width="40" /></a>
-<a href="https://www.github.com/TWSNXDev" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
